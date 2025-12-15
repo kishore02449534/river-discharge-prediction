@@ -36,7 +36,7 @@ Predicting Logan River discharge and stage levels using Long Short-Term Memory (
 **Jacob Haight** - LSTM Implementation  
 **Ehsan Kahrizi** - Feature Selection & Data Analysis
 
-*See [MY_CONTRIBUTIONS.md](MY_CONTRIBUTIONS.md) for detailed breakdown*
+*See [MY_CONTRIBUTIONS.md](MY_CONTRIBUTIONS_.md) for detailed breakdown*
 
 ---
 
