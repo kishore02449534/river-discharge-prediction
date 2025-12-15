@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 **Time-series forecasting of river discharge and water stage using LSTM neural networks**
 
@@ -156,20 +156,6 @@ river-discharge-prediction/
 
 1. Mehedi et al. (2022). *Exploring Temporal Dynamics of River Discharge Using Univariate LSTM*. Hydrology, 9(11), 202.
 2. Zhang et al. (2022). *Discharge Forecasting Using Hybrid LSTM Models*. Water, 14(11), 1794.
-
----
-
-## License
-
-MIT License - see [LICENSE](LICENSE)
-
----
-
-## Contact
-
-**Kishore Ragul Alagarsamy**  
-📧 kishorealagar12@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/kishore-ragul) | [GitHub](https://github.com/kishore02449534)
 
 ---
 
