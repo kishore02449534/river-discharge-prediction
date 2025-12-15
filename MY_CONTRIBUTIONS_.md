@@ -81,37 +81,6 @@ As the ML engineering lead, I was responsible for all machine learning developme
 
 ---
 
-## Code Breakdown
-
-| Component | My Work | Lines of Code |
-|-----------|---------|---------------|
-| Model Definition | 100% | ~80 |
-| Training Pipeline | 100% | ~150 |
-| Hyperparameter Tuning | 100% | ~200 |
-| Data Preprocessing | 100% | ~120 |
-| Evaluation Metrics | 100% | ~100 |
-| Visualization | 40% | ~60 |
-| **Total** | **~85%** | **~710 / ~830** |
-
----
-
-## Time Investment
-
-**Total:** ~115 hours over 8 weeks
-
-| Phase | Hours | Weeks |
-|-------|-------|-------|
-| Literature review & design | 12 | 1 |
-| Model implementation | 15 | 1 |
-| Training pipeline | 18 | 1 |
-| Experiments (univariate) | 20 | 1 |
-| Experiments (multivariate) | 22 | 1 |
-| Downstream prediction | 10 | 1 |
-| Analysis & evaluation | 8 | 1 |
-| Documentation | 10 | 1 |
-
----
-
 ## Skills Demonstrated
 
 **Technical:**
