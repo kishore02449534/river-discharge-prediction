@@ -116,7 +116,7 @@ Access Results:
 
 📈 Key findings and metrics are summarized above in the Results section
 Full results archive available upon request
-Contact: kishore02449534@aggiemail.usu.edu
+Contact: a02449534@usu.edu or kishorealagar12@gmail.com
 To reproduce results, follow the Quick Start guide below
 
 ## Quick Start
