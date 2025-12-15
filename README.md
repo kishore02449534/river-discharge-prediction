@@ -149,8 +149,6 @@ river-discharge-prediction/
 ├── WaterLab_Discharge.csv       # Upstream data
 ├── WaterLab_Stage.csv           # Upstream data
 ├── parse.py                     # Visualization script
-├── requirements.txt             # Dependencies
-├── presentations/               # Slides and proposal
 └── README.md                    # This file
 ```
 
