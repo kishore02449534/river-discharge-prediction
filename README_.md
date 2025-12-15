@@ -81,7 +81,7 @@ Input (31-day lag) → LSTM(45 units, 2 layers) → Output (7-day forecast)
 
 ### Experiments Conducted
 1. **Univariate:** Discharge only → RMSE: 0.64
-2. **Multivariate:** Discharge + Stage → **RMSE: 0.5959** ✅
+2. **Multivariate:** Discharge + Stage → **RMSE: 0.5959** 
 3. **Downstream:** Predict Main Street from WaterLab → RMSE: 0.44
 
 ---
@@ -93,15 +93,15 @@ Input (31-day lag) → LSTM(45 units, 2 layers) → Output (7-day forecast)
 | Model | Configuration | Discharge RMSE | Stage RMSE |
 |-------|--------------|----------------|------------|
 | Univariate | 45 units, 51-day lag | 0.6357 | - |
-| **Multivariate** | **45 units, 31-day lag** | **0.5959** ✅ | **0.4541** ✅ |
+| **Multivariate** | **45 units, 31-day lag** | **0.5959**  | **0.4541**  |
 | Downstream | 45 units, 61-day lag | 0.4419 | 0.4648 |
 
 ### Key Findings
-- ✅ Multivariate models outperform univariate by 15%
-- ✅ 31-day lag window optimal for 7-day predictions
-- ✅ Model captures seasonal patterns (spring snowmelt peaks)
-- ⚠️ Struggles with extreme events (>40 m³/s discharge)
-- ⚠️ Accuracy decreases beyond 7-day forecast horizon
+-  Multivariate models outperform univariate by 15%
+-  31-day lag window optimal for 7-day predictions
+-  Model captures seasonal patterns (spring snowmelt peaks)
+-  Struggles with extreme events (>40 m³/s discharge)
+-  Accuracy decreases beyond 7-day forecast horizon
 
 ---
 
@@ -121,7 +121,7 @@ jupyter notebook Final_Project.ipynb
 
 **Requirements:** Python 3.8+, PyTorch, NumPy, Pandas, Matplotlib
 
-*See [SETUP_GUIDE.md](SETUP_GUIDE.md) for detailed instructions*
+
 
 ---
 
@@ -175,7 +175,6 @@ MIT License - see [LICENSE](LICENSE)
 
 <div align="center">
 
-⭐ Star this repository if you find it useful!
 
 *Developed as part of Data Science in Practice course at Utah State University*
 
