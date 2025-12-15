@@ -144,10 +144,10 @@ jupyter notebook Final_Project.ipynb
 ```
 river-discharge-prediction/
 ├── Final_Project.ipynb          # Main analysis
-├── MainStreet_Discharge.csv     # Downstream data
-├── MainStreet_Stage.csv         # Downstream data
-├── WaterLab_Discharge.csv       # Upstream data
-├── WaterLab_Stage.csv           # Upstream data
+├── MainStreet-Discharge.csv     # Downstream data
+├── MainStreet-Stage.csv         # Downstream data
+├── WaterLab-Discharge.csv       # Upstream data
+├── WaterLab-Stage.csv           # Upstream data
 ├── parse.py                     # Visualization script
 └── README.md                    # This file
 ```
