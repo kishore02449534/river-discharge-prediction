@@ -9,11 +9,11 @@
 ## Summary
 
 As the ML engineering lead, I was responsible for all machine learning development:
-- ✅ **100%** of LSTM model architecture design
-- ✅ **100%** of training pipeline implementation  
-- ✅ **100%** of hyperparameter optimization experiments
-- ✅ **85%** of total code implementation
-- ✅ **Achieved RMSE: 0.5959** for 7-day discharge prediction
+-  **100%** of LSTM model architecture design
+-  **100%** of training pipeline implementation  
+-  **100%** of hyperparameter optimization experiments
+-  **85%** of total code implementation
+-  **Achieved RMSE: 0.5959** for 7-day discharge prediction
 
 ---
 
@@ -52,7 +52,7 @@ As the ML engineering lead, I was responsible for all machine learning developme
 |--------------|------|---------|
 | Univariate, 20 units, 31-day | 0.8570 | Baseline |
 | Univariate, 45 units, 51-day | 0.6357 | More context helps |
-| **Multivariate, 45 units, 31-day** | **0.5959** ✅ | **Best model** |
+| **Multivariate, 45 units, 31-day** | **0.5959**  | **Best model** |
 
 **Key Finding:** Multivariate approach improved predictions by 15%
 
